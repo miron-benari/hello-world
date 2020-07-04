@@ -1,3 +1,3 @@
 # hello-world
 greetings to the world <br/>
-Miron here, searching for ש high-tech job
+Miron here, searching for a high-tech job
